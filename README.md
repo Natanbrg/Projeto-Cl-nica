@@ -1,1 +1,1 @@
-Este projeto consiste no desenvolvimento de uma site para uma clínica médica utilizando HTML e CSS puro. O site conta com 4 páginas interligadas, página inicial, sobre à clínica, horários de atendimento e contato. As páginas podem ser acessadas através de um menu lateral.
+Este projeto consiste no desenvolvimento de um site para uma clínica médica utilizando HTML e CSS puro. O site conta com 4 páginas interligadas, página inicial, sobre à clínica, horários de atendimento e contato. As páginas podem ser acessadas através de um menu lateral.
